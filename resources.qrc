@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Q_LIP" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
